@@ -1,0 +1,15 @@
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\bin\Debug\net7.0\02Métodos.exe
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\bin\Debug\net7.0\02Métodos.deps.json
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\bin\Debug\net7.0\02Métodos.runtimeconfig.json
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\bin\Debug\net7.0\02Métodos.dll
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\bin\Debug\net7.0\02Métodos.pdb
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.csproj.AssemblyReference.cache
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.AssemblyInfoInputs.cache
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.AssemblyInfo.cs
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.dll
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\refint\02Métodos.dll
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.pdb
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\02Métodos.genruntimeconfig.cache
+C:\Users\NerusNexuss\Documents\estudandoC#\02Métodos\obj\Debug\net7.0\ref\02Métodos.dll
